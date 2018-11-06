@@ -1,0 +1,1 @@
+{"columnHeaders":[{"name":"ID","columnType":"METRIC","dataType":"INTEGER"},{"name":"TimeStamp","columnType": "METRIC","dataType": "INTEGER"},{"name": "Price","columnType":"METRIC","dataType":"INTEGER"},{"name":"Amount","columnType":"METRIC","dataType":"INTEGER"}]}
